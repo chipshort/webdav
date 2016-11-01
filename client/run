@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./compile && cd bin && cpp/Main "$@"
+#./compile && cd bin && neko test.n

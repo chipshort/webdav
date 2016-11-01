@@ -1,0 +1,9 @@
+-cp src
+
+-lib hxssl
+-main Main
+#-debug
+
+#-js bin/js/Main.js
+-cpp bin/cpp
+#-neko bin/main.n
